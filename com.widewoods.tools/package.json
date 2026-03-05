@@ -1,0 +1,10 @@
+{
+    "name": "com.widewoods.tools",
+    "version": "0.1.0",
+    "displayName": "Woods Tools",
+    "description": "Reusable Unity systems and utilities.",
+    "unity": "2022.3",
+    "author": {
+        "name": "Woods Hong"
+    }
+}
